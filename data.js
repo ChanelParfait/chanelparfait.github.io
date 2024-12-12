@@ -1,40 +1,40 @@
 export const bio = [
-  "Hello! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
-  "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
-  "Thanks for visiting!",
+  "Hi, I'm Chanel, a Sydney based Game Developer with a passion for all aspects of the craft. I work as a programmer, designer, and artist, blending my creativity and analytical skills.",
+  "I love tackling new problems and expanding my development knowledge.",
+  "Explore my portfolio to learn more about me and my work!",
 ];
 
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    skillName: "C#, C++, Java",
     color: "1",
-    percentage: "80",
+    percentage: "85",
   },
   {
-    title: "Frameworks/Libraries",
-    skillName: "Angular, RxJS, NGRX/NGXS",
+    title: "Unity Engine",
+    skillName: "Unity",
     color: "6",
-    percentage: "70",
+    percentage: "85",
   },
   {
-    title: "Design",
-    skillName: "HTML, Bootstrap, Tailwind",
+    title: "Unreal",
+    skillName: "Unreal 4",
     color: "4",
-    percentage: "70",
+    percentage: "60",
   },
   {
     title: "Version Control",
-    skillName: "GitHub, JIRA, Bitbucket",
+    skillName: "GitHub, JIRA",
     color: "7",
     percentage: "70",
   },
-  {
+  /*{
     title: "Tools",
     skillName: "Debugging, Chrome DevTools",
     color: "3",
     percentage: "80",
-  },
+  },*/
 //   {
 //     title: "Analytics",
 //     skillName: "CleverTap, Countly",
