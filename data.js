@@ -50,101 +50,70 @@ export const skills = [
 ];
 
 export const projects = {
-  webProjects: [
+  gameProjects: [
     {
-      projectName: "Programming Diaries",
-      image: "images/programmingdiaries.png",
+      projectName: "Crushers",
+      image: "",
       summary:
-        "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-      preview: "https://programmingdiaries.herokuapp.com/",
-      techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+        "Multiplayer demolition derby with special pickup items and vehicle selection. Developed in a small group for Game Design Studio 2 at UTS",
+      preview: "https://chanel-parfait.itch.io/crushers",
+      techStack: ["Unity", "Mirror", "Steamworks", "C#", "Player Input System"],
     },
     {
-      projectName: "Find Your Bank",
-      image: "images/findyourbank.png",
+      projectName: "Gloria Armada",
+      image: "",
       summary:
-        "Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-      preview: "https://clever-fermi-0d5d76.netlify.app",
-      techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-    },
-    {
-      projectName: "Web Portfolio",
-      image: "images/portfolio.png",
-      summary:
-        "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/vinaysomawat/Travographer-Portal",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
-    },
-    {
-      projectName: "Resume Builder",
-      image: "images/resume-builder.png",
-      summary:
-        "Browser based editor to build and download Resumes in a customizable templates.",
-      preview: "https://vinaysomawat.github.io/Resume-Builder",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
+        "Web Based SHMUP pilot game with physics based controls. Developed in a small group for Game Design Studio 1 at UTS",
+      preview: "https://chanel-parfait.itch.io/gloria-armada",
+      techStack: ["Unity", "WebGL", "C#"],
     },
   ],
   softwareProjects: [
     {
-      projectName: "Pizza Ordering ChatBot",
-      image: "images/pizzaorderchatbot.png",
+      projectName: "Procedural Racetrack Generator",
+      image: "",
       summary:
-        "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-      preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-      techStack: ["Dailogflow", "Firebase"],
+        "A multiplayer procedural racetrack generator, with randomly generated vehicles, created with a partner for Advanced Games Programming at UTS",
+      preview: "",
+      techStack: ["Unreal 4", "C++"],
     },
     {
-      projectName: "WhatsApp-Bot",
-      image: "images/whatsappbot.jpg",
+      projectName: "Song Generator",
+      image: "",
       summary:
-        "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
+        "A simple song generator which creates 8-bit style music based on text inputs",
       preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-      techStack: ["Selenium", "Chrome Webdriver", "Python"],
+      techStack: ["Processing 4", "Java", "Beads", "Control.P5"],
+    }
+  ],
+  videoProjects: [
+    {
+      projectName: "Stranded",
+      image: "",
+      summary:
+        "3D Unity animation about an astronaut on a foreign planet. Developed with a small group for Interactive 3D Animation at UTS",
+      preview: "",
+      techStack: ["Unity", "Blender", "C#", "Mixamo", "Cinemachine"],
     },
     {
-      projectName: "Bill Generator",
-      image: "images/billgenerator.png",
+      projectName: "Sustainable Fashion Library",
+      image: "",
       summary:
-        "GUI to transfer data to excel sheets and generate bills on the local shops.",
-      preview: "https://github.com/vinaysomawat/Bill-Generator",
-      techStack: ["Tkinter", "Openxlpy", "Python"],
+        "A video project about a sustainable fashion solution, created with a small group for Sustainability in an Interconnected World at UTS",
+      preview: "",
+      techStack: ["Canva", "Video Editing", "Collaboration"]
     },
   ],
-  androidProjects: [
+  mobileProjects: [
     {
-      projectName: "NITW-CSE",
-      image: "images/nitwcse.jpg",
+      projectName: "Clean It Up",
+      image: "",
       summary:
-        "The Application display details of Department courses, reference books, research, publication and faculty profile.",
-      preview: "https://github.com/vinaysomawat/NITW-CSE",
-      techStack: ["JAVA", "XML", "Android"],
+        "An education game about recycling and sustainable waste management, created with Unity",
+      preview: "",
+      techStack: ["Unity", "C#"],
     },
-    {
-      projectName: "CareerHigh-App",
-      image: "images/carrerhigh.png",
-      summary:
-        "The Application display the webpages of website careerhigh.in in android devices.",
-      preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-      techStack: ["JAVA", "XML", "Android"],
-    },
-  ],
-  freelanceProjects: [
-    {
-      projectName: "SnylloAir.com",
-      image: "images/snylloair.png",
-      summary:
-        "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-      preview: "https://www.snylloair.com/",
-      techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-    },
-    {
-      projectName: "Delivery+",
-      image: "images/AM-Logo-.png",
-      summary: "Android Application to display website in android devices.",
-      preview:
-        "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-      techStack: ["Android", "JAVA", "Play Store"],
-    },
+    
   ],
 };
 
@@ -238,7 +207,7 @@ export const footer = [
     data: [
       {
         text: "Linkedin",
-        link: "www.linkedin.com/in/chanel-parfait",
+        link: "https://www.linkedin.com/in/chanel-parfait/",
       },
       {
         text: "Itch.io",
@@ -249,7 +218,7 @@ export const footer = [
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts; by Vinay Somawat.",
+      "Template created by Vinay Somawat.",
       
     ],
   },
