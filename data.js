@@ -56,7 +56,7 @@ export const projects = {
   webProjects: [
     {
       projectName: "Crushers",
-      image: "images/AM-Logo-.png",
+      image: "images/crushers.png",
       summary:
         "Multiplayer demolition derby with special pickup items and vehicle selection. Developed in a small group for Game Design Studio 2 at UTS",
       preview: "https://chanel-parfait.itch.io/crushers",
@@ -64,7 +64,7 @@ export const projects = {
     },
     {
       projectName: "Gloria Armada",
-      image: "images/AM-Logo-.png",
+      image: "images/gloria_armada.jpg",
       summary:
         "Web Based SHMUP pilot game with physics based controls. Developed in a small group for Game Design Studio 1 at UTS",
       preview: "https://chanel-parfait.itch.io/gloria-armada",
@@ -74,43 +74,35 @@ export const projects = {
   softwareProjects: [
     {
       projectName: "Procedural Racetrack Generator",
-      image: "images/AM-Logo-.png",
+      image: "images/shifting_speedway.png",
       summary:
         "A multiplayer procedural racetrack generator, with randomly generated vehicles, created with a partner for Advanced Games Programming at UTS",
-      preview: "",
+      preview: "https://www.youtube.com/watch?v=Qv38RMm-BOk",
       techStack: ["Unreal 4", "C++"],
     },
     {
       projectName: "Song Generator",
-      image: "images/AM-Logo-.png",
+      image: "images/song_generator.png",
       summary:
         "A simple song generator which creates 8-bit style music based on text inputs",
-      preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+      preview: "https://www.youtube.com/watch?v=wo2sbVCj76k",
       techStack: ["Processing 4", "Java", "Beads", "Control.P5"],
     }
   ],
   androidProjects: [
     {
       projectName: "Stranded",
-      image: "images/AM-Logo-.png",
+      image: "images/stranded.png",
       summary:
         "3D Unity animation about an astronaut on a foreign planet. Developed with a small group for Interactive 3D Animation at UTS",
-      preview: "images/AM-Logo-.png",
+      preview: "https://www.youtube.com/watch?v=duFdAqSy8gU",
       techStack: ["Unity", "Blender", "C#", "Mixamo", "Cinemachine"],
-    },
-    {
-      projectName: "Sustainable Fashion Library",
-      image: "images/AM-Logo-.png",
-      summary:
-        "A video project about a sustainable fashion solution, created with a small group for Sustainability in an Interconnected World at UTS",
-      preview: "",
-      techStack: ["Canva", "Video Editing", "Collaboration"]
     },
   ],
   freelanceProjects: [
     {
       projectName: "Clean It Up",
-      image: "images/AM-Logo-.png",
+      image: "images/clean_it_up.png",
       summary:
         "An education game about recycling and sustainable waste management, created with Unity",
       preview: "",
