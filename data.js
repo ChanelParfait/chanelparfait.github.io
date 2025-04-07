@@ -1,6 +1,9 @@
 export const bio = [
   "Hi, I'm Chanel, a Sydney based Game Developer with a passion for all aspects of the craft. I work as a programmer, designer, and artist, blending my creativity and analytical skills.",
-  "I love tackling new problems and expanding my development knowledge.",
+  "As a recent Games Development Graduate, I'm looking to break into the IT Industry. My current career goals are to gain professional experience developing software or games, expand my knowledge and contribute to innovative, user focused projects.",
+  "In my projects, I specialise in designing and programming core mechanics and systems. From planning the classes to final testing and bug fixing. I focus on logical, readable design and modular, easily maintainable code.",
+  "Though my main role is often as a programmer, my interests span across many fields, including UI design, audio engineering, animation and marketing. I love learning new things and improving my skills as a developer. Within group projects I often take up leadership roles by planning and conducting meetings, updating documentation, and helping others meet their objectives. Organisation and communication are vital aspects of my workflow.",
+  "I spend my free time creating art, gaming (both digitally and on the table top), hitting the gym and tackling escape rooms with friends. My favourite games currently are Marvel Rivals, R.E.P.O and Inscryption. Some of my current projects include implementing networked multiplayer for 'Crushers' a demolition derby party game, and learning mobile development for Android.",
   "Explore my portfolio to learn more about me and my work!",
 ];
 
