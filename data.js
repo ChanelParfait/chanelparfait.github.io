@@ -56,7 +56,7 @@ export const projects = {
   webProjects: [
     {
       projectName: "Crushers",
-      image: "images/crushers.png",
+      image: "images/crushers.PNG",
       summary:
         "Multiplayer demolition derby with special pickup items and vehicle selection. Developed in a small group for Game Design Studio 2 at UTS",
       preview: "https://chanel-parfait.itch.io/crushers",
@@ -74,7 +74,7 @@ export const projects = {
   softwareProjects: [
     {
       projectName: "Procedural Racetrack Generator",
-      image: "images/shifting_speedway.png",
+      image: "images/shifting_speedway.jpg",
       summary:
         "A multiplayer procedural racetrack generator, with randomly generated vehicles, created with a partner for Advanced Games Programming at UTS",
       preview: "https://www.youtube.com/watch?v=Qv38RMm-BOk",
@@ -92,7 +92,7 @@ export const projects = {
   androidProjects: [
     {
       projectName: "Stranded",
-      image: "images/stranded.png",
+      image: "images/stranded.jpg",
       summary:
         "3D Unity animation about an astronaut on a foreign planet. Developed with a small group for Interactive 3D Animation at UTS",
       preview: "https://www.youtube.com/watch?v=duFdAqSy8gU",
@@ -102,7 +102,7 @@ export const projects = {
   freelanceProjects: [
     {
       projectName: "Clean It Up",
-      image: "images/clean_it_up.png",
+      image: "images/clean_it_up.PNG",
       summary:
         "An education game about recycling and sustainable waste management, created with Unity",
       preview: "",
