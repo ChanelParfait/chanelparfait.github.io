@@ -2006,7 +2006,7 @@ ul {
 	padding-left: 20px;
 	padding-right: 20px;
 	/* margin: 30px auto 20px; */
-	background: #f9bf3f;
+	background: #A19CD1;
 	color: #000;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
@@ -2059,7 +2059,7 @@ ul {
 
 .submenu {
 	display: none;
-	background: #f9bf3f;
+	background: #A19CD1;
 	font-size: 14px;
 	padding-left: 0px;
 	padding-top: 10px;
@@ -2173,7 +2173,7 @@ span {
 }
 
 :root {
-	--footer-bg: #f9bf3f;
+	--footer-bg: #A19CD1;
 	--color: #000;
 	--color-smooth: #000;
 	--input-border: #3a456a;
