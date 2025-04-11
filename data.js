@@ -81,6 +81,15 @@ export const projects = {
       techStack: ["Unreal 4", "C++"],
     },
     {
+      projectName: "Reclaimer",
+      image: "images/reclaimer.png",
+      summary:
+        "A procedural city generation and destruction simulator. Developed in a small group for Intro to Computer Graphics at UTS",
+      preview: "https://www.youtube.com/watch?v=H24zPRAgZA8",
+      techStack: ["Javascript", "Three.js", "HTML", "Cannon.js"],
+    },
+    
+    {
       projectName: "Song Generator",
       image: "images/song_generator.png",
       summary:
